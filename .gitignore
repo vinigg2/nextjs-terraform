@@ -6,3 +6,12 @@ node_modules
 .env
 .env.*
 !.env.example
+
+# Build output
+.next
+.next-tf
+
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*

@@ -28,7 +28,7 @@ export const StyledThemeProvider: React.FC = ({ children }) => {
   const values = React.useMemo(
       () => ({
           theme,
-          toggle,
+          toggle: () => undefined,
       }),
       [toggle, theme]
   );
