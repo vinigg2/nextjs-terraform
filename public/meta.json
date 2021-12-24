@@ -1,0 +1,55 @@
+{
+  "name": "catho-nextjs",
+  "plugins": [
+    {
+      "name": "Styled Components",
+      "description": "Utilising tagged template literals (a recent addition to JavaScript) and the power of CSS, styled-components allows you to write actual CSS code to style your components.",
+      "url": "https://styled-components.com/docs"
+    },
+    {
+      "name": "Axios",
+      "description": "Promise based HTTP client for the browser and node.js.",
+      "url": "https://github.com/axios/axios"
+    },
+    {
+      "name": "Storybook",
+      "description": "Storybook is an open source tool for developing UI components in isolation for React, Vue, Angular, and more. It makes building stunning UIs organized and efficient.",
+      "url": "https://storybook.js.org/docs/react/get-started/introduction"
+    },
+    {
+      "name": "Environment Variables",
+      "description": "Use environment variables in your next.js project for server side, client or both.",
+      "url": "https://github.com/vercel/next.js/tree/canary/examples/environment-variables"
+    },
+    {
+      "name": "SWR",
+      "description": "React Hooks library for data fetching from Vercel",
+      "url": "https://swr.vercel.app/"
+    },
+    {
+      "name": "React Redux",
+      "description": "Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.",
+      "url": "https://redux.js.org/introduction/getting-started"
+    },
+    {
+      "name": "ESLint",
+      "description": "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.",
+      "url": "https://eslint.org/docs/user-guide/getting-started"
+    },
+    {
+      "name": "Jest",
+      "description": "Jest is a delightful JavaScript Testing Framework with a focus on simplicity.",
+      "url": "https://jestjs.io/docs/en/getting-started"
+    },
+    {
+      "name": "Cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "url": "https://docs.cypress.io/guides/overview/why-cypress.html"
+    },
+    {
+      "name": "Docker",
+      "description": "",
+      "url": ""
+    }
+  ]
+}
